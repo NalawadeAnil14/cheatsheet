@@ -120,7 +120,7 @@ for more details refer  https://docs.docker.com/install/linux/docker-ce/ubuntu/#
           chmod 777 /var/run/docker.sock
         
 ## SonarQube Installation in ubuntu 16.04 
-
+refer this new link : https://developerinsider.co/install-sonarqube-on-ubuntu/
 Use apt-get to install the required packages.
  - apt-get update
  - apt-get install unzip software-properties-common wget default-jdk
